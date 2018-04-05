@@ -7,3 +7,6 @@
 [submodule "xgboost"]
 	path = xgboost
 	url = https://github.com/bennycooly/xgboost.git
+[submodule "rocksdb"]
+	path = rocksdb
+	url = https://github.com/bennycooly/rocksdb.git
