@@ -1,0 +1,9 @@
+[submodule "protobuf"]
+	path = protobuf
+	url = https://github.com/bennycooly/protobuf.git
+[submodule "redex"]
+	path = redex
+	url = https://github.com/bennycooly/redex.git
+[submodule "xgboost"]
+	path = xgboost
+	url = https://github.com/bennycooly/xgboost.git
