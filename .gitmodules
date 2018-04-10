@@ -10,3 +10,9 @@
 [submodule "rocksdb"]
 	path = rocksdb
 	url = https://github.com/bennycooly/rocksdb.git
+[submodule "brpc"]
+	path = brpc
+	url = https://github.com/brpc/brpc.git
+[submodule "rapidjson"]
+	path = rapidjson
+	url = https://github.com/Tencent/rapidjson.git
