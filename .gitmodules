@@ -142,3 +142,6 @@
 [submodule "glow"]
 	path = glow
 	url = https://github.com/pytorch/glow.git
+[submodule "protobuf"]
+	path = protobuf
+	url = https://github.com/google/protobuf.git
