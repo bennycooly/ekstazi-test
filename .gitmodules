@@ -1,6 +1,3 @@
-[submodule "protobuf"]
-	path = protobuf
-	url = https://github.com/bennycooly/protobuf.git
 [submodule "redex"]
 	path = redex
 	url = https://github.com/bennycooly/redex.git
@@ -16,3 +13,132 @@
 [submodule "rapidjson"]
 	path = rapidjson
 	url = https://github.com/Tencent/rapidjson.git
+[submodule "capnproto"]
+	path = capnproto
+	url = https://github.com/capnproto/capnproto.git
+[submodule "ceph"]
+	path = ceph
+	url = https://github.com/ceph/ceph.git
+[submodule "abseil-cpp"]
+	path = abseil-cpp
+	url = https://github.com/abseil/abseil-cpp.git
+[submodule "retdec"]
+	path = retdec
+	url = https://github.com/avast-tl/retdec.git
+[submodule "faiss"]
+	path = faiss
+	url = https://github.com/facebookresearch/faiss.git
+[submodule "fmt"]
+	path = fmt
+	url = https://github.com/fmtlib/fmt.git
+[submodule "ponyc"]
+	path = ponyc
+	url = https://github.com/ponylang/ponyc.git
+[submodule "openh264"]
+	path = openh264
+	url = https://github.com/cisco/openh264.git
+[submodule "mesos"]
+	path = mesos
+	url = https://github.com/apache/mesos.git
+[submodule "pcl"]
+	path = pcl
+	url = https://github.com/PointCloudLibrary/pcl.git
+[submodule "shogun"]
+	path = shogun
+	url = https://github.com/shogun-toolbox/shogun.git
+[submodule "raiblocks"]
+	path = raiblocks
+	url = https://github.com/nanocurrency/raiblocks.git
+[submodule "arrow"]
+	path = arrow
+	url = https://github.com/apache/arrow.git
+[submodule "Clementine"]
+	path = Clementine
+	url = https://github.com/clementine-player/Clementine.git
+[submodule "xlearn"]
+	path = xlearn
+	url = https://github.com/aksnzhy/xlearn.git
+[submodule "xcbuild"]
+	path = xcbuild
+	url = https://github.com/facebook/xcbuild.git
+[submodule "mapd-core"]
+	path = mapd-core
+	url = https://github.com/mapd/mapd-core.git
+[submodule "apitrace"]
+	path = apitrace
+	url = https://github.com/apitrace/apitrace.git
+[submodule "incubator-singa"]
+	path = incubator-singa
+	url = https://github.com/apache/incubator-singa.git
+[submodule "fbthrift"]
+	path = fbthrift
+	url = https://github.com/facebook/fbthrift.git
+[submodule "synergy-core"]
+	path = synergy-core
+	url = https://github.com/symless/synergy-core.git
+[submodule "mysql-server"]
+	path = mysql-server
+	url = https://github.com/mysql/mysql-server.git
+[submodule "oceanbase"]
+	path = oceanbase
+	url = https://github.com/alibaba/oceanbase.git
+[submodule "peloton"]
+	path = peloton
+	url = https://github.com/cmu-db/peloton.git
+[submodule "sdsl-lite"]
+	path = sdsl-lite
+	url = https://github.com/simongog/sdsl-lite.git
+[submodule "hyperscan"]
+	path = hyperscan
+	url = https://github.com/intel/hyperscan.git
+[submodule "libtins"]
+	path = libtins
+	url = https://github.com/mfontanini/libtins.git
+[submodule "caffe"]
+	path = caffe
+	url = https://github.com/BVLC/caffe.git
+[submodule "ycmd"]
+	path = ycmd
+	url = https://github.com/Valloric/ycmd.git
+[submodule "evpp"]
+	path = evpp
+	url = https://github.com/Qihoo360/evpp.git
+[submodule "gflags"]
+	path = gflags
+	url = https://github.com/gflags/gflags.git
+[submodule "yaml-cpp"]
+	path = yaml-cpp
+	url = https://github.com/jbeder/yaml-cpp.git
+[submodule "kythe"]
+	path = kythe
+	url = https://github.com/google/kythe.git
+[submodule "libcds"]
+	path = libcds
+	url = https://github.com/khizmax/libcds.git
+[submodule "fann"]
+	path = fann
+	url = https://github.com/libfann/fann.git
+[submodule "braft"]
+	path = braft
+	url = https://github.com/brpc/braft.git
+[submodule "snap"]
+	path = snap
+	url = https://github.com/snap-stanford/snap.git
+[submodule "mathfu"]
+	path = mathfu
+	url = https://github.com/google/mathfu.git
+[submodule "swift"]
+	path = swift
+	url = https://github.com/apple/swift.git
+[submodule "pistache"]
+	path = pistache
+	url = https://github.com/oktal/pistache.git
+[submodule "cryfs"]
+	path = cryfs
+	url = https://github.com/cryfs/cryfs.git
+[submodule "bigflow"]
+	path = bigflow
+	url = https://github.com/baidu/bigflow.git
+[submodule "glow"]
+	path = glow
+	url = https://github.com/pytorch/glow.git
